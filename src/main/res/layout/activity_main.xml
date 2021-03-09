@@ -39,6 +39,7 @@
         android:layout_marginBottom="96dp"
         android:ems="10"
         android:inputType="number"
+        android:maxLength="8"
         app:layout_constraintBottom_toTopOf="@+id/serverMessage"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
